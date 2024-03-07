@@ -1,13 +1,13 @@
 import { useRouteError } from "react-router-dom";
 
 export default function ErrorPage(){
-    const error=useRouteError()
+    const error = useRouteError()
     console.log(error)
     return(
         <div className="space-y-8">
             <h1 className="text-center text-6xl font-extrabold mt-20 text-blue-900">CRM Clients</h1>
             <p className="text-center text-2xl">There was an error</p>
-            <p className="text-center">{error.message}</p>
+            <p className="text-center">{error.statusText }</p>
         </div>
     )
 }
