@@ -1,40 +1,71 @@
 {
-    "clients" :[
-        {
-            "id": 1,
-            "name": "John",
-            "phone": 102013313,
-            "email": "juan@react.com",
-            "company": "React coders"
-        },
-        {
-            "id": 2,
-            "name": "Karen",
-            "phone": 138198313,
-            "email": "karen@react.com",
-            "company": "React coders"
-        },
-        {
-            "id": 3,
-            "name": "Josue",
-            "phone": 31983913,
-            "email": "josue@react.com",
-            "company": "React coders"
-        },
-        {
-            "id": 4,
-            "name": "Micheal",
-            "phone": 319381983,
-            "email": "miguel@react.com",
-            "company": "React coders"
-        },
-        {
-            "id": 5,
-            "name": "Peter",
-            "phone": 1398198938,
-            "email": "pedro@react.com",
-            "company": "React coders"
-        }
-    ]
-      
+  "clients": [
+    {
+      "id": "1",
+      "name": "John",
+      "phone": 102013313,
+      "email": "juan@react.com",
+      "company": "React coders"
+    },
+    {
+      "id": "2",
+      "name": "Karen",
+      "phone": 138198313,
+      "email": "karen@react.com",
+      "company": "React coders"
+    },
+    {
+      "id": "3",
+      "name": "Josue",
+      "phone": 31983913,
+      "email": "josue@react.com",
+      "company": "React coders"
+    },
+    {
+      "id": "4",
+      "name": "Micheal",
+      "phone": 319381983,
+      "email": "miguel@react.com",
+      "company": "React coders"
+    },
+    {
+      "id": "5",
+      "name": "Peter",
+      "phone": 1398198938,
+      "email": "pedro@react.com",
+      "company": "React coders"
+    },
+    {
+      "id": "c805",
+      "name": "Agustin Gaggero",
+      "company": "Juju",
+      "email": "a_gaggero@hotmail.com",
+      "phone": "+4571435076",
+      "notes": "Hola, si"
+    },
+    {
+      "id": "a374",
+      "name": "Martina",
+      "company": "juju",
+      "email": "mar@tina.com",
+      "phone": "12345678",
+      "notes": "Hola, no"
+    },
+    {
+      "id": "bcfa",
+      "name": "asd",
+      "company": "af",
+      "email": "asdf@hoajk.com",
+      "phone": "154126987412",
+      "notes": "Hola, csi"
+    },
+    {
+      "id": "3f04",
+      "name": "Agustin Gaggero garcia",
+      "company": "Laconchadetuhermana",
+      "email": "a_gaggero@hotmail.com",
+      "phone": "5415468432168",
+      "notes": "Nooooooo"
+    }
+  ]
 }
