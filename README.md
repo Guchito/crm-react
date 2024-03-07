@@ -1,4 +1,4 @@
 # React + Vite
 
-React Router DOM
-With Tailwind
+React Router DOM using dinamic routing
+With Tailwind. 
